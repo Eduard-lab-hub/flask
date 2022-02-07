@@ -8,7 +8,10 @@
 </head>
 <body>
     <h2>Страница инвентаризации</h2>
-    
+    <form action='/add/' method="POST" >
+        <input type="text" name="good">
+        <button>Добавить</button>
+    </form>
     
     <ol>
         {% for good in goods %}

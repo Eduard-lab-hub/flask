@@ -1,0 +1,2 @@
+https://github.com/Eduard-lab-hub/inventor.git
+https://github.com/Eduard-lab-hub/flask.git
